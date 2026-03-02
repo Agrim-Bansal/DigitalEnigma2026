@@ -1,10 +1,12 @@
 # DIGITAL ENGIMA 2026
-Organized by ACES ACEM
+Organized by ACES ACM IITD
+
 Coordinators: Priyanshi, Akhilesh
-Problems by: Anish, Hardik and Agrimm
+
+Problems by: Anish, Hardik and Agrim
 
 ## How to Participate?
-- The event was conducted on 29th February 2026 with Tryst. However, the challenge is till online and you can try out the problems and check out the solutions.
+- The event was conducted on 29th February 2026 with Tryst. However, the challenge is still online and you can try out the problems and check out the solutions.
 
 - There are rounds in the challenge, each has a pdf problem statement. The flag for each round is the password for the next round. 
 The flag for the final round is the winning flag.
